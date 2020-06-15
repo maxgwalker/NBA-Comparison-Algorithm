@@ -5,7 +5,8 @@ This program will scrape the web for player data and tell you the three players 
 
 ## How do I use it?
 Have a player in mind? Download the file and run the program to see their results. Make sure to replace the filepath with your own downloads of the csv data and replace the "players" variable with a list of the players you'd like to find comparisons on. Feed the players you're curious about as a list of strings to player_comp function and you should get the result within 2 seconds per player. All apostrophes and special foreign characters have been removed from player names. 
-For example, running player_comp(['Luka Doncic', 'Trae Young', Kobe Bryant'] will return the following 
+
+For example, running player_comp(['Luka Doncic', 'Trae Young', Kobe Bryant'] will return the following:
 
 "Luka Doncic's comparison's are DeMar DeRozan, Tyreke Evans, and Carmelo Anthony.
 
