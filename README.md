@@ -14,6 +14,8 @@ Trae Young's comparison's are Isaiah Thomas, Stephon Marbury, and Damian Lillard
 
 Kobe Bryant's comparison's are Jerry Stackhouse, Dwyane Wade, and Vince Carter."
 
+I found the results to be especially useful as a tool to better understand players from past eras who I never got to watch myself. For example, after scrolling through the results, I was able to draw comparisons and gained a greater appreciation for players like Jerry Stackhouse and Mitch Richmond.
+
 ## Only interested in results? 
 Go straight to the complete list of results by opening the "Results" file. 
 
