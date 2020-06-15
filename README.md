@@ -11,13 +11,14 @@ For example, running player_comp(['Luka Doncic', 'Trae Young', Kobe Bryant'] wil
 Trae Young's comparison's are Isaiah Thomas, Stephon Marbury, and Damian Lillard
 Kobe Bryant's comparison's are Jerry Stackhouse, Dwyane Wade, and Vince Carter"
 
-Only interested in results? Go straight to the results by opening the "Results" file. 
+## Only interested in results? 
+Go straight to the complete list of results by opening the "Results" file. 
 
 
 
 
 
-Sources:
-https://pypi.org/project/basketball-reference-web-scraper/ to assist in scraping https://www.basketball-reference.com/ for player data
-https://www.kaggle.com/justinas/nba-players-data?select=all_seasons.csv for biometric data on current players.
-https://www.kaggle.com/drgilermo/nba-players-stats for biometric data on older players
+## Sources:
+https://www.kaggle.com/justinas/nba-players-data?select=all_seasons.csv
+https://www.kaggle.com/drgilermo/nba-players-stats
+https://pypi.org/project/basketball-reference-web-scraper/
