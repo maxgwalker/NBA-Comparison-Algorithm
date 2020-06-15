@@ -20,5 +20,7 @@ Go straight to the complete list of results by opening the "Results" file.
 
 ## Sources:
 https://www.kaggle.com/justinas/nba-players-data?select=all_seasons.csv
+
 https://www.kaggle.com/drgilermo/nba-players-stats
+
 https://pypi.org/project/basketball-reference-web-scraper/
